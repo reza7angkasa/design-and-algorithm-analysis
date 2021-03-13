@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:38:10.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="gUtCYwgB6L554f_77m66" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:39:43.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="3UxdXqRXqS9Lj4I-cyrF" version="14.4.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1501" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -70,8 +70,8 @@
             <mxPoint x="364.5" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0jBDoSQV3ATti1A9h-6B-39" value="Ardean Reza&lt;br&gt;Struktur Data - Tugas 1:&lt;br&gt;&lt;span style=&quot;color: rgb(76 , 76 , 76) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;flowchart untuk mencetak bilangan prima dari 1 hingga 10&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="90" width="400" height="50" as="geometry" />
+        <mxCell id="0jBDoSQV3ATti1A9h-6B-39" value="Ardean Reza&lt;br&gt;Struktur Data - Tugas 1:&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#4c4c4c&quot; face=&quot;roboto, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Flowchart untuk mencetak bilangan prima dari 1 hingga 10&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="90" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
