@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:39:43.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="3UxdXqRXqS9Lj4I-cyrF" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:42:07.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="MIdT2ptQmTA5o-7g8b4X" version="14.4.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1501" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,7 +19,7 @@
         <mxCell id="0jBDoSQV3ATti1A9h-6B-3" value="R=1, A=10, int, num" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0jBDoSQV3ATti1A9h-6B-5" value="PRINT&lt;br&gt;bilangan prima antara&lt;br&gt;R sampai S:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0jBDoSQV3ATti1A9h-6B-5" value="PRINT&lt;br&gt;bilangan prima antara&lt;br&gt;R sampai A:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="580" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0jBDoSQV3ATti1A9h-6B-6" value="num &amp;gt; 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -70,7 +70,7 @@
             <mxPoint x="364.5" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0jBDoSQV3ATti1A9h-6B-39" value="Ardean Reza&lt;br&gt;Struktur Data - Tugas 1:&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#4c4c4c&quot; face=&quot;roboto, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Flowchart untuk mencetak bilangan prima dari 1 hingga 10&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0jBDoSQV3ATti1A9h-6B-39" value="Ardean Reza&lt;br&gt;Struktur Data - Tugas 1:&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 15px ; color: rgb(76 , 76 , 76) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; text-align: left&quot;&gt;Flowchart untuk mencetak bilangan prima dari 1 hingga 10&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="90" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
