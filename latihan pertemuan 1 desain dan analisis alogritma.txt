@@ -1,0 +1,101 @@
+public function latihan1{
+Algoritma:
+Step 1 Jika n = 0, return nilai m sebagai hasil dan stop. Jika tidak, kembali ke step 2
+Step 2 Bagi nilai m dengan n, masukkan nilai sisanya ke r.
+Step 3 Masukkan nilai n ke m dan nilai r ke n. Kembali ke Step 1
+
+Pseudocode:
+if n=0 then
+return m
+else if n != 0 then
+r= m/n
+m=n
+n=r
+repeat
+}
+
+public function latihan_kpk{
+Algoritma:
+Step 1 nilai KPK 3 (3,6,9,12,18,...) dan 4 (4,8,12,14,...)
+Step 2 nilai yang diambil dari terkecil: 12
+
+Pseudocode:
+a= 3 + 3 * 3
+b= 4 + 4 * 2
+if (a==b) then
+endif
+else then
+repeat
+}
+
+public function latihan_swap{
+Fungsi untuk menukar 2 variabel x dan y:
+define swap(x,y)
+buffer= x
+x=y
+y=buffer
+}
+
+public function buah{
+Latihan buah
+a=manggis
+b=pisang
+define swap(a,b)
+c=a
+a=b
+b=c
+}
+
+public function luas_segitiga{
+Latihan hitung luas segitiga
+algoritma:
+step 1 alas = 25
+step 2 tinggi = 30
+step 3 0.5 * alas * tinggi
+
+pseudocode:
+alas = 25
+tinggi = 30
+luas = 0.5 * alas * tinggi
+}
+
+public function luasJajarGenjang{
+Latihan hitung luas jajar genjang
+algoritma:
+step 1 alas = 3
+step 2 tinggi = 5
+step 3 alas * tinggi
+
+pseudocode:
+alas = 3
+tinggi = 5
+luas = alas * tinggi
+}
+
+public function VolumeTabung{
+Latihan hitung Volume Tabung
+algoritma:
+step 1 jari-jari = 3
+step 2 tinggi = 5
+step 3 3.14 * jari-jari * jari-jari * tinggi
+
+pseudocode:
+jari-jari = 3
+tinggi = 5
+volume = 3.14 * jari-jari * jari-jari * tinggi
+}
+
+public function VolumeKerucut{
+Latihan hitung Volume kerucut
+algoritma:
+step 1 diameter= 5
+step 2 jari-jari = diameter/2
+step 2 tinggi = 4
+step 3 0.33 * 3.14 * jari-jari * jari-jari * tinggi
+
+pseudocode:
+diameter= 5
+jari-jari = diameter/2
+tinggi = 4
+volume = 0.33 * 3.14 * jari-jari * jari-jari * tinggi
+}
