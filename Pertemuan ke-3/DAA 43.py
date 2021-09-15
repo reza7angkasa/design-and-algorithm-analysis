@@ -1,0 +1,21 @@
+class Stack:
+    def __init__(self):
+        self.items=[]
+    def isEmpty(self):
+        return self.items==[]
+    def push(self,item):
+        self.items.append(item)
+    def pop(self):
+        return self.items.pop()
+    def peek(self):
+        return self.items[len(self.items0)-l]
+    def size(self):
+        return len(self.items)
+stack=Stack()
+stack.push('Red')
+stack.push('Green')
+stack.push('Blue')
+stack.push('Yellow')
+print(stack.pop())
+print(stack.isEmpty())
+    
