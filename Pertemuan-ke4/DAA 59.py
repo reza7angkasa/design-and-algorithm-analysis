@@ -18,6 +18,6 @@ def IntPolsearch(list,x):
         if list[mid] < x:
             idx0=mid+1
     return found
-list=['y','u','i','w','o','a','q','u','j','p']
+list=[20,170,7,102,5]
 sorted_list=BubbleSort(list)
-print(IntPolsearch(list,'u'))
+print(IntPolsearch(list,102))
